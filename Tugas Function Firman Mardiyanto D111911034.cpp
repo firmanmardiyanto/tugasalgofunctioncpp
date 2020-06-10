@@ -10,7 +10,6 @@ main(){
 	cout<<"---------------------------------------\n1. Kalkulator \n2. Nilai ke Huruf \nMasukan no menu : ";cin>>pilihan;
 	switch(pilihan){
 		case 1:
-			mulai:
 			kalkulator();
 			break;
 		case 2:
